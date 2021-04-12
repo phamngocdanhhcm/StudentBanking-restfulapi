@@ -1,0 +1,13 @@
+com\giuaki\mapper\UsersMapper.class
+com\giuaki\model\Users.class
+com\giuaki\services\IUsersServices.class
+com\giuaki\controller\web\HomeController.class
+com\giuaki\services\impl\UsersServices.class
+com\giuaki\controller\web\api\NewAPI.class
+com\giuaki\mapper\RowMapper.class
+com\giuaki\dao\GenericDAO.class
+com\giuaki\dao\IUsersDAO.class
+com\giuaki\dao\impl\AbstractDAO.class
+com\giuaki\utils\HttpUtils.class
+com\giuaki\dao\impl\UsersDAO.class
+com\giuaki\model\Infor_User.class
